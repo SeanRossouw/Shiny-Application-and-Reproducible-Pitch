@@ -1,0 +1,17 @@
+---
+title: "Documentation"
+author: "Sean Rossouw"
+date: "10 September 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Documentation
+
+Read the slideshow, open the app
+Íts easy
+
+I believe in you
